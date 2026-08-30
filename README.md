@@ -90,6 +90,9 @@ I am extremely happy today!
 ```text
 Happy
 ```
+Screenshots:
+app_preview.png
+app1_preview.png
 
 ## 📊 Machine Learning
 
