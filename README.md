@@ -36,17 +36,19 @@ Input:
 I am extremely happy with the results!
 Output:
 Predicted Emotion: Joy
+
 Project Structure
+
 emotion-detection/
 │
-├── app.py
-├── emotion_model.pkl
-├── count_vectorizer.pkl
-├── requirements.txt
-├── README.md
-│
-└── assets/
-    └── app-preview.png
+──> app.py
+──> emotion_model.pkl
+──> count_vectorizer.pkl
+──> requirements.txt
+──>README.md
+─> assets/
+    ─>app-preview.png
+    
 
   | File                   | Description                                                                       |
 | ---------------------- | --------------------------------------------------------------------------------- |
