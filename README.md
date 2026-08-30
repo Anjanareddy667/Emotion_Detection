@@ -91,8 +91,11 @@ I am extremely happy today!
 Happy
 ```
 Screenshots:
-app_preview.png
-app1_preview.png
+
+app-preview.png
+
+app1-preview.png
+
 
 ## 📊 Machine Learning
 
