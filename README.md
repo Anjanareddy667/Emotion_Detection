@@ -90,11 +90,13 @@ I am extremely happy today!
 ```text
 Happy
 ```
-Screenshots:
+## 📸 Screenshots
 
-app-preview.png
+### Application Preview
+![Application Preview](assets/app-preview.png)
 
-app1-preview.png
+### Emotion Prediction
+![Emotion Prediction](assets/app1-preview.png)
 
 
 ## 📊 Machine Learning
