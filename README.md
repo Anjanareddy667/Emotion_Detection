@@ -12,7 +12,9 @@ Workflow Description
 
 6.Result Display – The prediction is presented through the Streamlit interface.
 
+
 Frontend
+
 The application uses Streamlit as the frontend framework.
 
 The interface allows users to:
@@ -41,8 +43,11 @@ Add your actual Streamlit screenshot here:
 Example Output
 
 Input:
+
 I am extremely happy with the results!
+
 Output:
+
 Predicted Emotion: Joy
 
 Project Structure
@@ -76,10 +81,17 @@ emotion-detection/
 | `README.md`            | Project documentation.                                                            |
 
 Key Highlights
+
 1.End-to-end Natural Language Processing and Machine Learning implementation.
+
 2.Automated emotion classification from textual input.
+
 3.CountVectorizer-based feature extraction.
+
 4.Persistent model artifacts using Joblib.
+
 5.Real-time inference through Streamlit.
+
 6.Interactive user-facing application.
+
 7.Reproducible project setup using requirements.txt.
