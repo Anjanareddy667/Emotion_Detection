@@ -19,6 +19,8 @@ The interface allows users to:
 Application Preview
 
 Add your actual Streamlit screenshot here:
+![Emotion Detection Application](assets/app-preview.png)
+![Emotion Detection Application](assets/app1-preview.png)
 
 
 | Category                 | Technology      |
@@ -42,12 +44,19 @@ Project Structure
 emotion-detection/
 │
 ──> app.py
+
 ──> emotion_model.pkl
+
 ──> count_vectorizer.pkl
+
 ──> requirements.txt
+
 ──>README.md
+
 ─> assets/
+
     ─>app-preview.png
+    ->app1-preview.png
     
 
   | File                   | Description                                                                       |
