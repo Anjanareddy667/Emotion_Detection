@@ -1,9 +1,15 @@
 Workflow Description
+
 1.User Input – The user enters text through the Streamlit interface.
+
 2.Text Processing – The input is prepared for feature extraction.
+
 3.Feature Extraction – CountVectorizer converts the text into numerical features.
+
 4.Model Inference – The numerical representation is passed to the trained classifier.
+
 5.Emotion Prediction – The model identifies the corresponding emotion.
+
 6.Result Display – The prediction is presented through the Streamlit interface.
 
 Frontend
@@ -41,8 +47,9 @@ Predicted Emotion: Joy
 
 Project Structure
 
+
 emotion-detection/
-│
+
 ──> app.py
 
 ──> emotion_model.pkl
@@ -56,6 +63,7 @@ emotion-detection/
 ─> assets/
 
     ─>app-preview.png
+    
     ->app1-preview.png
     
 
